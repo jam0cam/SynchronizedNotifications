@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Common/src/main/res" >
+            <file
+                path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Common/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Common
+                </string>
+            </file>
+        </source>
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Common/build/generated/res/rs/debug" />
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Common/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Common/src/debug/res" />
+    </dataSet>
+
+</merger>

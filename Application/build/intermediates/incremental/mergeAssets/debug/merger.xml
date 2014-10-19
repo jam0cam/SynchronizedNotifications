@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/build/intermediates/exploded-aar/SynchronizedNotifications/Common/unspecified/assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="5.0.89" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jitse/workspace/AndroidStudioProjects/SynchronizedNotifications/Application/src/debug/assets" />
+    </dataSet>
+
+</merger>
